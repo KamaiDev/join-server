@@ -1,6 +1,9 @@
 # Entrar em servidores por requests - NotDev :D
 Um simples request para quem quer entrar em servidores do aplicativo Discord usando sua token de usuário.
 
+## LEIA - IMPORTANTE
+Uso excessivo de requests pode acarretar no bloqueamento da conta para pedido de confirmação de celular/e-mail ou até BANIMENTO do usuário. Então use moderadamente para estudos e não para ferramentas maliciosas, como os tão conhecidos "SelfBots".
+
 ## NPM necessária
 > ```BATCH
 > npm i node-fetch
